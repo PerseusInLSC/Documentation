@@ -626,7 +626,7 @@
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 13](https://www.scribd.com/document/804928501/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-13)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 14](https://www.scribd.com/document/804928510/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-14)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 15](https://www.scribd.com/document/804928536/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-15)
-    - [New Senior Secondary Mastering Biology Revision Notes Chapter 16](https://www.scribd.com/document/804928545/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-16)
+    - [New Senior Secondary Mastering Biology Revision Notes Chapter 16](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/New%20Senior%20Secondary%20Mastering%20Biology%20Revision%20Notes%20Chapter%2016.pdf)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 17](https://www.scribd.com/document/804928495/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-17)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 18](https://www.scribd.com/document/804928530/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-18)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 19](https://www.scribd.com/document/804928528/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-19)
@@ -642,17 +642,16 @@
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 29](https://www.scribd.com/document/804928516/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-29)
     - [New Senior Secondary Mastering Biology Revision Notes Chapter 30](https://www.scribd.com/document/804928534/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Chapter-30)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 1 Chapter 1](https://www.scribd.com/document/804928526/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-1-Chapter-1)
-    - [New Senior Secondary Mastering Biology Revision Notes Elective 1 Chapter 2](https://www.scribd.com/document/804928522/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-1-Chapter-2)
+    - [New Senior Secondary Mastering Biology Revision Notes Elective 1 Chapter 2](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/New%20Senior%20Secondary%20Mastering%20Biology%20Revision%20Notes%20Elective%201%20Chapter%202.pdf)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 1 Chapter 3](https://www.scribd.com/document/804928538/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-1-Chapter-3)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 1 Chapter 4](https://www.scribd.com/document/804928518/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-1-Chapter-4)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 2 Chapter 1](https://www.scribd.com/document/804928503/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-2-Chapter-1)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 2 Chapter 2](https://www.scribd.com/document/804928523/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-2-Chapter-2)
-    - [New Senior Secondary Mastering Biology Revision Notes Elective 3 Chapter 1](https://www.scribd.com/document/804928508/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-3-Chapter-1)
+    - [New Senior Secondary Mastering Biology Revision Notes Elective 3 Chapter 1](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/New%20Senior%20Secondary%20Mastering%20Biology%20Revision%20Notes%20Elective%203%20Chapter%201.pdf)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 3 Chapter 2](https://www.scribd.com/document/804928540/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-3-Chapter-2)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 3 Chapter 3](https://www.scribd.com/document/804928524/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-3-Chapter-3)
     - [New Senior Secondary Mastering Biology Revision Notes Elective 4 Chapter 1](https://www.scribd.com/document/804928512/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-4-Chapter-1)
-    - [New Senior Secondary Mastering Biology Revision Notes Elective 4 Chapter 2](https://www.scribd.com/document/804928533/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-4-Chapter-2)
-   
+    - [New Senior Secondary Mastering Biology Revision Notes Elective 4 Chapter 2](https://www.scribd.com/document/804928533/New-Senior-Secondary-Mastering-Biology-Revision-Notes-Elective-4-Chapter-2)   
     </details>
 - <details><summary>Chemistry Reference Books</summary>
 
