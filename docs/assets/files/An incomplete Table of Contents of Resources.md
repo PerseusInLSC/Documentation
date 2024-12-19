@@ -839,7 +839,7 @@
 </details>
 <details open><summary>La Salle College Documents</summary>
 	
-- <details><summary>F.2 Mid-Year Exam Syllbus, Timetable & Circular</summary>
+- <details><summary>F.2 Mid-Year Exam Syllabus, Timetable & Circular</summary>
 	
 	- [24-25 Mid-Year Exam F.1-5 Timetable](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/Signed.Mid.Yr.Exam.24-25.Timetable.pdf)
  	- [24-25 Mid-Year Exam F.1-5 Student Circular](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/Signed.1.MYE.24-25_S_cir.pdf)
@@ -850,7 +850,7 @@
 	
 	- [La Salle College F.2 Student Handbook](https://github.com/user-attachments/files/18110609/Student.Handbook.24-25.pdf)
  	- [2024-25 F.2 Class Timetable](https://github.com/user-attachments/files/18110625/2024-25.Class.Timtable_F2_updated.pdf)
-        - [2024-25 F.2 Emails (hkmusic.com.hk)](https://drive.google.com/file/d/1SyJalHJpUiCvGfaD1AJrTb8DA1Ae4sGV/view)
+	- [2024-25 F.2 Emails (hkmusic.com.hk)](https://drive.google.com/file/d/1SyJalHJpUiCvGfaD1AJrTb8DA1Ae4sGV/view)
 	</details>
 - <details><summary>24-25 F.2 Programme Outline</summary>
 	
