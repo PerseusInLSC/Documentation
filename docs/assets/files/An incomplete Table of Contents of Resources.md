@@ -843,7 +843,6 @@
 	
 	- [24-25 Mid-Year Exam F.1-5 Timetable](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/Signed.Mid.Yr.Exam.24-25.Timetable.pdf)
  	- [24-25 Mid-Year Exam F.1-5 Student Circular](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/Signed.1.MYE.24-25_S_cir.pdf)
-	- [24-25 Mid-Year Exam F.2 Exam Numbers](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/24-25.Mid-Year.Exam.F.2.Exam.Numbers.pdf)
 	- [24-25 Mid-Year Exam F.2 Syllabuses](https://docs.lscstudy.us.kg/assets/files/An%20incomplete%20Table%20of%20Contents%20of%20Resources/24-25.Mid-Year.Exam.F.2.Syllabuses.pdf)
 	</details>
 - <details><summary>F.2 Student Handbook, Timetable, Email list</summary>
